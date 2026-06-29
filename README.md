@@ -184,6 +184,7 @@ If you import the same reviewed shifts again, Google Calendar rejects the duplic
 python -m unittest discover -s tests
 ```
 
+<img width="1094" height="763" alt="Screenshot 2026-06-28 225142" src="https://github.com/user-attachments/assets/4c563ace-8bcd-472c-a225-d1abcf213e67" />
 
 
 
