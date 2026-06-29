@@ -4,6 +4,11 @@ Safely import Walmart work shifts into Google Calendar from either a CSV file or
 
 This app does **not** scrape, automate, or log into Me@Walmart. Screenshot import only reads an image file you choose. Every import goes through a review table before Google Calendar events are created.
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Google Calendar API](https://img.shields.io/badge/API-Google%20Calendar-red)
+![EasyOCR](https://img.shields.io/badge/OCR-EasyOCR-orange)
+
 ## Features
 
 - Windows desktop GUI built with Tkinter
